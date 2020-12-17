@@ -1,0 +1,300 @@
+body {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom:100px;
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+
+
+}
+
+.backgoundimg {background-repeat: no-repeat;background-size: cover;}
+.ingamecar {
+    float: right;
+}
+
+.ingamevideo {
+    float: right;
+}
+
+.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    /*width: 35%;
+    height: auto;*/
+}
+.valhalla {   font-size: 65px;text-align: center;font-weight: bold;text-decoration: underline;color: cyan;}
+.valhallabackgroundV {background-repeat: no-repeat;background-size: cover;}
+.valhallabackground {background-image: url('../img/valhalla/1.png');background-position: center;background-repeat: no-repeat;background-size: cover;}
+.valhallafill {width: auto;height: 1600px;}
+.valhallaback1 {background-color: gainsboro;width: auto;height: 800px;padding: 50px;}
+.valhallatextbox1 {width: 800px;height: 400px;background-color: white;padding: 40px;margin-left: 35%;}
+.valhallatextbox2 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 32.5%;}
+.valhallaimg1 {width: auto;height: 600px;margin-left: 50%;margin-top: -40%}
+.valhallaimg2 {width: auto;height: 650px;margin-left: 72.3%;margin-top: -40%}
+.valhallaimg3 {width: auto;height: 650px;margin-left: 0%;margin-top: -40%}
+.valhallaP {font-size: 30px;color: black;}
+
+
+.TheWitcher {font-size: 65px;text-align: center;font-weight: bold;text-decoration: underline;color: darkred;}
+.ThewitcherbackgroundV {background-repeat: no-repeat;background-size: cover;}
+.Thewitcherbackground {background-image: url('../img/TheWitcher/backlogo1.jpg');background-repeat: no-repeat;background-size: cover;}
+.TheWitcherfill {width: auto;height: 1600px;}
+.TheWitcherback1 {background-color: gainsboro;width: auto;height: 800px;padding: 50px;}
+.Thewitchertextbox1 {width: 800px;height: 400px;background-color: white;padding: 40px;margin-left: 35%;}
+.Thewitchertextbox2 {width: 900px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 0%;}
+.Thewitchertextbox3 {width: 800px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 58.3%;}
+.Thewitchertextbox4 {width: 600px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 0%;}
+.Thewitchertextbox5 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 63%;}
+.Thewitcherimg1 {width: auto;height: 600px;margin-left: 50%;margin-top: -40%}
+.Thewitcherimg2 {width: auto;height: 650px;margin-left: 69.2%;margin-top: -40%}
+.Thewitcherimg3 {width: auto;height: 700px;margin-left: 0%;margin-top: -40%}
+.Thewitcherimg4 {width: auto;height: 700px;margin-left: 73.2%;margin-top: -40%}
+.Thewitcherimg5 {width: auto;height: 700px;margin-left: 0%;margin-top: -40%}
+.TheWitcherP {font-size: 30px;color: black;}
+
+
+.Cyberpunk {   font-size: 65px;text-align: center;font-weight: bold;text-decoration: underline;color: skyblue;}
+.CyberpunkbackgroundV {background-repeat: no-repeat;background-size: cover;}
+.Cyberpunkbackground {background-image: url('../img/Cyberpunk/cyberpunkbakcground.jpg');background-position: center;background-repeat: no-repeat;background-size: 120% 100% ;}
+.Cyberpunkfill {width: auto;height: 1600px;}
+.Cyberpunkback1 {background-color: gainsboro;width: auto;height: 800px;padding: 50px;}
+.Cyberpunktextbox1 {width: 800px;height: 400px;background-color: white;padding: 40px;margin-left: 10%;}
+.Cyberpunktextbox2 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 0%;}
+.Cyberpunktextbox3 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 63%;}
+.Cyberpunktextbox4 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 0%;}
+.Cyberpunktextbox5 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 63%;}
+.Cyberpunkimg1 {width: auto;height: 600px;margin-left: 50%;margin-top: -40%}
+.Cyberpunkimg2 {width: auto;height: 650px;margin-left: 63.4%;margin-top: -40%}
+.Cyberpunkimg3 {width: auto;height: 650px;margin-left: 0%;margin-top: -40%}
+.Cyberpunkimg4 {width: auto;height: 700px;margin-left: 70%;margin-top: -40%}
+.Cyberpunkimg5 {width: auto;height: 700px;margin-left: 0%;margin-top: -40%}
+.CyberpunkP {font-size: 30px;color: black;}
+
+.fa {
+    text-align: center;
+
+    margin-top: 30%;
+}
+
+
+
+
+
+.Cod {
+    font-size: 65px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: orange;
+}
+
+.CodP {
+    font-size: 30px;
+    color: lightgray;
+
+    margin: 40px;
+    text-align: center;
+}
+
+.responsivenav {
+    background: darkred;
+    overflow: hidden;
+}
+
+.responsivenav a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 14px 16px;
+    display: block;
+    text-align: center;
+    float: left;
+}
+
+.responsivenav a:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    max-height: 100vh;
+}
+
+
+.responsivenav a.active {
+    background-color: grey;
+    color: white;
+}
+
+.responsivenav .barcontainer {
+    display: none;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    margin-right: 5px;
+    margin-top: 3px;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #f2f2f2;
+
+    margin: 6px;
+    transition: 0.4s;
+}
+
+.change .bar1 {
+    transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {
+    opacity: 0;
+}
+
+.change .bar3 {
+    transform: rotate(45deg) translate(-8px, -7px);
+}
+
+@media screen and (max-width: 600Px) {
+    .responsivenav a:not(:first-child) {
+        display: none;
+    }
+
+    .responsivenav .barcontainer {
+        float: right;
+        display: block;
+    }
+
+    .responsivenav.responsive {
+        position: relative;
+    }
+
+    .responsivenav.responsive .barcontainer {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .responsivenav.responsive a {
+        float: none;
+        display: block;
+    }
+
+}
+
+.daten{color: white;}
+
+.footer
+{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    width: auto;
+    text-align: center;
+    padding: 30px;
+}
+.footer1
+{
+    float: right;
+    color: white;
+}
+.footer2
+{
+    float:left;
+    color: white;
+}
+.slideshowTheWitcher {
+    width: 640px;
+    height: 800px;
+    background-color: #eeeeee;
+    margin: auto;
+    background-image: url("../img/TheWitcher/slideshow/slideshowF.png");
+    animation-name: slideThewicher;
+    animation-duration: 30s;
+    animation-direction: normal;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slideThewicher {
+    0% {
+        background-position: 0 0;
+    }
+    10% {
+        background-position: 0 0;
+    }
+    20% {
+        background-position: -640px 0;
+    }
+    30% {
+        background-position: -640px 0;
+    }
+    40% {
+        background-position: -1280px 0;
+    }
+    50% {
+        background-position: -1280px 0;
+    }
+    60% {
+        background-position: -1920px 0;
+    }
+    70% {
+        background-position: -1920px 0;
+    }
+    80% {
+        background-position: -2560px 0;
+    }
+    90% {
+        background-position: -2560px 0;
+    }
+    100% {
+        background-position: -3200px 0;
+    }
+}
+
+.slideshowvalhalla {
+    width: 1200px;
+    height: 1700px;
+    background-color: #eeeeee;
+    margin: auto;
+    background-image: url("../img/valhalla/slideshow/norwayengland.png");
+    animation-name: slidevalhalla;
+    animation-duration: 10s;
+    animation-direction: normal;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+@keyframes slidevalhalla {
+    0% {
+        background-position: 0 0;
+    }
+    33% {
+        background-position: -1200px 0;
+    }
+    66% {
+        background-position: -1200px 0;
+    }
+
+    100% {
+        background-position: -2400px 0;
+    }
+}
+

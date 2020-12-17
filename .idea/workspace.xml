@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0802cfe7-f344-44d5-9138-526c79b7f76e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l99aJZhw7VwA4ucUjuF2l1uBlZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\-k101ScottWL-master\img\callofduty" />
+      <recent name="C:\Users\Administrator\Desktop\-k101ScottWL-master\img\TheWitcher" />
+      <recent name="C:\Users\Administrator\Desktop\-k101ScottWL-master" />
+      <recent name="C:\Users\Administrator\Desktop\-k101ScottWL-master\img\valhalla" />
+      <recent name="C:\Users\Administrator\Desktop\-k101ScottWL-master\Scripts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0802cfe7-f344-44d5-9138-526c79b7f76e" name="Default Changelist" comment="" />
+      <created>1606998502279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606998502279</updated>
+      <workItem from="1606998503358" duration="5219000" />
+      <workItem from="1607094800271" duration="10561000" />
+      <workItem from="1607357921557" duration="594000" />
+      <workItem from="1607460837959" duration="10350000" />
+      <workItem from="1607688769210" duration="10449000" />
+      <workItem from="1607951502305" duration="13861000" />
+      <workItem from="1608063254778" duration="6344000" />
+      <workItem from="1608104552819" duration="5307000" />
+      <workItem from="1608143224305" duration="2417000" />
+      <workItem from="1608207644123" duration="8531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="455" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607958777183">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="566" y="455" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607958777183" />
+    <state x="603" y="323" width="672" height="678" key="search.everywhere.popup" timestamp="1607465431913">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="603" y="323" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1607465431913" />
+  </component>
+</project>
