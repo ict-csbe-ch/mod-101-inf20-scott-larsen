@@ -61,13 +61,13 @@ body {
 .Cyberpunkbackground {background-image: url('../img/Cyberpunk/cyberpunkbakcground.jpg');background-position: center;background-repeat: no-repeat;background-size: 120% 100% ;}
 .Cyberpunkfill {width: auto;height: 1600px;}
 .Cyberpunkback1 {background-color: gainsboro;width: auto;height: 800px;padding: 50px;}
-.Cyberpunktextbox1 {width: 800px;height: 400px;background-color: white;padding: 40px;margin-left: 10%;}
+.Cyberpunktextbox1 {width: 800px;height: 400px;background-color: white;padding: 40px;margin-left: 5%;}
 .Cyberpunktextbox2 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 0%;}
-.Cyberpunktextbox3 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 63%;}
+.Cyberpunktextbox3 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 59%;}
 .Cyberpunktextbox4 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 0%;}
-.Cyberpunktextbox5 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 63%;}
+.Cyberpunktextbox5 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 59%;}
 .Cyberpunkimg1 {width: auto;height: 600px;margin-left: 50%;margin-top: -40%}
-.Cyberpunkimg2 {width: auto;height: 650px;margin-left: 63.4%;margin-top: -40%}
+.Cyberpunkimg2 {width: auto;height: 650px;margin-left: 59%;margin-top: -40%}
 .Cyberpunkimg3 {width: auto;height: 650px;margin-left: 0%;margin-top: -40%}
 .Cyberpunkimg4 {width: auto;height: 700px;margin-left: 70%;margin-top: -40%}
 .Cyberpunkimg5 {width: auto;height: 700px;margin-left: 0%;margin-top: -40%}
