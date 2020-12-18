@@ -31,9 +31,9 @@ body {
 .valhallafill {width: auto;height: 1600px;}
 .valhallaback1 {background-color: gainsboro;width: auto;height: 800px;padding: 50px;}
 .valhallatextbox1 {width: 800px;height: 400px;background-color: white;padding: 40px;margin-left: 35%;}
-.valhallatextbox2 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 32.5%;}
+.valhallatextbox2 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 30%;}
 .valhallaimg1 {width: auto;height: 600px;margin-left: 50%;margin-top: -40%}
-.valhallaimg2 {width: auto;height: 650px;margin-left: 72.3%;margin-top: -40%}
+.valhallaimg2 {width: auto;height: 650px;margin-left: 69%;margin-top: -40%}
 .valhallaimg3 {width: auto;height: 650px;margin-left: 0%;margin-top: -40%}
 .valhallaP {font-size: 30px;color: black;}
 
@@ -45,13 +45,13 @@ body {
 .TheWitcherback1 {background-color: gainsboro;width: auto;height: 800px;padding: 50px;}
 .Thewitchertextbox1 {width: 800px;height: 400px;background-color: white;padding: 40px;margin-left: 35%;}
 .Thewitchertextbox2 {width: 900px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 0%;}
-.Thewitchertextbox3 {width: 800px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 58.3%;}
+.Thewitchertextbox3 {width: 800px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 53.5%;}
 .Thewitchertextbox4 {width: 600px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 0%;}
-.Thewitchertextbox5 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 63%;}
+.Thewitchertextbox5 {width: 700px;height: 500px;background-color: gainsboro;padding: 40px;margin-left: 59%;}
 .Thewitcherimg1 {width: auto;height: 600px;margin-left: 50%;margin-top: -40%}
-.Thewitcherimg2 {width: auto;height: 650px;margin-left: 69.2%;margin-top: -40%}
+.Thewitcherimg2 {width: auto;height: 650px;margin-left: 65.8%;margin-top: -40%}
 .Thewitcherimg3 {width: auto;height: 700px;margin-left: 0%;margin-top: -40%}
-.Thewitcherimg4 {width: auto;height: 700px;margin-left: 73.2%;margin-top: -40%}
+.Thewitcherimg4 {width: auto;height: 700px;margin-left: 70.2%;margin-top: -40%}
 .Thewitcherimg5 {width: auto;height: 700px;margin-left: 0%;margin-top: -40%}
 .TheWitcherP {font-size: 30px;color: black;}
 
@@ -93,7 +93,7 @@ body {
 
 .CodP {
     font-size: 30px;
-    color: lightgray;
+    color: darkorange;
 
     margin: 40px;
     text-align: center;
